@@ -423,7 +423,7 @@ i {
 }
 
 .section6 {
-  background-image: url(/8-task4copy/img/بحر\ مع\ طائر.jpg);
+  background-image: url(/8-task4copy/img/bird.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position-y: center;
@@ -654,7 +654,7 @@ i {
 }
 /* \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ */
 .section8 {
-  background-image: url(/8-task4copy/img/بحر\ مع\ مركب.jpg);
+  background-image: url(/8-task4copy/img/boat.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-position-y: center;
@@ -667,7 +667,7 @@ i {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  background-image: url(/8-task4copy/img/صورة\ شخصية.jpg);
+  background-image: url(/8-task4copy/img/personalpic.jpg);
   background-size: cover;
   margin-top: 12vh;
   margin-left: 100px;
@@ -697,7 +697,7 @@ i {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  background-image: url(/8-task4copy/img/صورة\ شخصية.jpg);
+  background-image: url(/8-task4copy/img/personalpic.jpg);
   background-size: cover;
   margin-top: 12vh;
   margin-left: 700px;
@@ -910,14 +910,14 @@ i {
   opacity: 0.5;
   transition: 1s;
 }
-.iconss11 i{
+.iconss11 i {
   font-size: 40px;
   letter-spacing: 3px;
   text-align: center;
   word-spacing: 30px;
   line-height: 50px;
 }
-.SPCOPY{
-  font-size: 12PX;
+.SPCOPY {
+  font-size: 12px;
   font-weight: 900;
 }
